@@ -1,0 +1,400 @@
+1. Alan Turing — The Question
+
+23 June 1912 – 7 June 1954
+
+📍 Born: London, England
+📍 Died: Wilmslow, Cheshire, England
+
+Turing is arguably the intellectual grandfather of AI.
+
+His 1936 work established the theoretical foundations of general-purpose computation, while his 1950 paper “Computing Machinery and Intelligence” posed the famous question of whether machines could think and introduced the idea behind the Turing Test.
+
+Turing's contribution:
+“Can a machine be intelligent?”
+
+2. John McCarthy — The Field
+
+4 September 1927 – 24 October 2011
+
+📍 Born: Boston, Massachusetts
+📍 Died: Stanford, California
+
+McCarthy coined the term “artificial intelligence” in 1955 and organized the 1956 Dartmouth workshop that helped establish AI as a formal research field.
+
+He also invented Lisp, one of the most important programming languages in early AI, and made major contributions to machine reasoning and time-sharing.
+
+McCarthy's contribution:
+He gave the field its name and helped define what it would become.
+
+3. Marvin Minsky — The Early Architect
+
+9 August 1927 – 24 January 2016
+
+📍 Born: New York City
+📍 Died: Boston, Massachusetts
+
+Minsky was one of the central figures in early AI and co-founded the MIT AI Laboratory.
+
+His work explored machine perception, symbolic reasoning, neural networks and the nature of human intelligence. His book The Society of Mind became an influential theory of intelligence as a collection of interacting processes.
+
+Minsky's contribution:
+He helped construct the intellectual architecture of early AI.
+
+4. Geoffrey Hinton — The Godfather of Deep Learning
+
+Born 6 December 1947
+
+📍 Born: Wimbledon, London, England
+📍 Living
+
+Hinton is one of the three central figures of the modern deep-learning revolution.
+
+His work on:
+
+backpropagation
+neural networks
+Boltzmann machines
+representation learning
+deep learning
+
+helped establish the neural-network approach that ultimately led to today's AI.
+
+He shared the 2018 Turing Award with Yann LeCun and Yoshua Bengio and the 2024 Nobel Prize in Physics with John Hopfield for foundational work on machine learning with artificial neural networks.
+
+Hinton's contribution:
+He helped make neural networks powerful enough to change the world.
+
+5. Yann LeCun — Computer Vision
+
+Born 8 July 1960
+
+📍 Born: Near Paris, France
+📍 Living
+
+LeCun was one of the pioneers of convolutional neural networks (CNNs).
+
+CNNs transformed computer vision and became fundamental to:
+
+image recognition
+object detection
+facial recognition
+autonomous systems
+medical imaging
+
+His work, together with Hinton and Bengio, earned the trio the 2018 ACM Turing Award.
+
+LeCun's contribution:
+He taught machines how to “see.”
+
+6. Yoshua Bengio — Representation Learning
+
+Born 5 March 1964
+
+📍 Born: Paris, France
+📍 Living
+
+Bengio is another of the three major architects of deep learning.
+
+His research on:
+
+representation learning
+neural networks
+deep learning
+language models
+generative models
+
+helped establish the theoretical and practical foundations of modern AI.
+
+Bengio's contribution:
+He helped machines learn useful representations rather than merely memorize patterns.
+
+7. Andrew Ng — Democratizing Machine Learning
+
+Born 18 April 1976
+
+📍 Born: London, England
+📍 Living
+
+Andrew Ng played a major role in making machine learning a practical engineering discipline.
+
+He was a leading figure in:
+
+large-scale machine learning
+Stanford's AI research
+Google Brain
+Baidu AI
+online AI education
+
+His famous machine-learning courses helped introduce millions of people to modern ML.
+
+Ng's contribution:
+He helped turn machine learning from a research specialty into a mainstream engineering skill.
+
+8. Fei-Fei Li — ImageNet
+
+Born 1976
+
+📍 Born: Beijing, China
+📍 Living
+
+Fei-Fei Li created ImageNet, one of the most influential datasets in the history of computer vision.
+
+ImageNet gave researchers:
+
+Millions of labeled images + a standardized benchmark
+
+The spectacular 2012 AlexNet result on ImageNet became the symbolic beginning of the modern deep-learning revolution. Li's Stanford biography confirms that she was born in Beijing and spent her first 16 years in Chengdu.
+
+Li's contribution:
+She helped give deep learning the data it needed to explode.
+
+9. Demis Hassabis — AI + Science
+
+Born 27 July 1976
+
+📍 Born: London, England
+📍 Living
+
+Hassabis co-founded DeepMind and led the development of landmark systems including:
+
+AlphaGo
+AlphaZero
+AlphaFold
+
+AlphaGo's 2016 victory over Lee Sedol was one of AI's great psychological breakthroughs.
+
+AlphaFold then demonstrated something even more profound: AI could contribute to fundamental scientific discovery. Hassabis shared the 2024 Nobel Prize in Chemistry for protein-structure prediction.
+
+Hassabis's contribution:
+He demonstrated that AI could move beyond games into science itself.
+
+10. Ilya Sutskever — Deep Learning → LLMs
+
+Born 1985/86
+
+📍 Born: Nizhny Novgorod, Russia*
+📍 Living
+
+Sutskever was a key contributor to AlexNet, along with Alex Krizhevsky and Geoffrey Hinton.
+
+He later became one of the central researchers behind the development of large neural-network models and GPT at OpenAI.
+
+His importance lies in the bridge:
+
+Deep Learning → Large Language Models → Generative AI
+
+11. Alex Krizhevsky — AlexNet
+
+Born: publicly uncertain
+
+📍 Birthplace: publicly uncertain
+📍 Living
+
+Krizhevsky was the primary developer of AlexNet, together with Sutskever and Hinton.
+
+The 2012 ImageNet result is one of the most important experimental results in AI history.
+
+It showed that:
+
+Deep neural networks + GPUs + huge datasets could dramatically outperform traditional computer-vision approaches.
+
+That single result helped redirect enormous amounts of research and investment toward deep learning.
+
+12. Vladimir Vapnik — Statistical Learning Theory
+
+Born 6 December 1936
+
+📍 Born: Tashkent, Uzbek SSR
+📍 Living
+
+Vapnik is one of the foundational theorists of machine learning.
+
+His work with Alexey Chervonenkis produced VC theory, while his later work led to Support Vector Machines (SVMs).
+
+His work provided mathematical answers to a fundamental question:
+
+How can machines learn general rules from finite data?
+
+The Russian Institute of Control Sciences confirms his 1936 birth date.
+
+13. Judea Pearl — Causality
+
+Born 4 September 1936
+
+📍 Born: Tel Aviv, then Mandatory Palestine
+📍 Living
+
+Pearl revolutionized AI through:
+
+Bayesian networks
+probabilistic reasoning
+causal inference
+graphical models
+
+His work helped move AI beyond:
+
+“X correlates with Y.”
+
+toward:
+
+“X actually causes Y.”
+
+That distinction is enormously important for scientific reasoning and decision-making.
+
+14. Richard Sutton — Reinforcement Learning
+
+Born 1957/58
+
+📍 Born: Toledo, Ohio
+📍 Living
+
+Sutton is one of the founders of modern reinforcement learning (RL).
+
+His work on temporal-difference learning became fundamental to modern AI systems.
+
+RL is central to the lineage:
+
+Sutton → Deep RL → AlphaGo → AlphaZero → modern AI agents
+
+He shared the 2024 Turing Award with Andrew Barto.
+
+15. David Silver — AlphaGo & Deep RL
+
+Born 1976
+
+📍 Born: England
+📍 Living
+
+Silver led much of DeepMind's reinforcement-learning research.
+
+He was a major architect of:
+
+AlphaGo
+AlphaZero
+AlphaStar
+
+AlphaGo represented a historic combination:
+
+Deep neural networks + reinforcement learning + search
+
+His work helped demonstrate that machines could learn complex strategies without humans explicitly programming the strategies.
+
+16. Ashish Vaswani — Transformer
+
+Living
+
+📍 Birth information: Exact date/place not reliably established publicly.
+
+Vaswani was the lead author of the 2017 paper:
+
+Attention Is All You Need
+
+The paper introduced the Transformer architecture.
+
+This is arguably the single most important technical architecture behind:
+
+BERT → GPT → ChatGPT → modern LLMs → multimodal foundation models
+
+Vaswani's contribution:
+He helped provide the architecture that became the engine of the modern AI revolution.
+
+17. Jeff Dean — AI at Planetary Scale
+
+Born 23 July 1968
+
+📍 Born: Hawaii, USA
+📍 Living
+
+Dean is one of the most important engineering figures behind Google's massive computing infrastructure.
+
+His work includes:
+
+MapReduce
+Bigtable
+TensorFlow
+large-scale distributed computing
+Google AI infrastructure
+
+His contribution is easy to underestimate.
+
+Modern AI requires enormous computational infrastructure.
+
+Dean's contribution:
+He helped make AI scalable.
+
+18. Ian Goodfellow — Generative AI
+
+Born 1985
+
+📍 Reported birthplace: Rochester, New York
+📍 Living
+
+Goodfellow invented Generative Adversarial Networks (GANs) in 2014.
+
+The basic idea:
+
+Generator
+    ↓
+creates fake data
+    ↓
+Discriminator
+    ↓
+tries to detect fake data
+    ↓
+Generator improves
+    ↓
+Repeat
+
+GANs became one of the foundational technologies of modern generative AI.
+
+Goodfellow's contribution:
+He helped teach machines how to generate realistic content.
+
+19. Jensen Huang — The AI Engine
+
+Born 17 February 1963
+
+📍 Born: Taiwan; biographical sources differ between Taipei and Tainan
+📍 Living
+
+Huang co-founded NVIDIA in 1993.
+
+NVIDIA's GPU technology became the computational foundation for modern deep learning.
+
+This is a crucial point:
+
+Without massive GPU acceleration, today's AI revolution would have been dramatically slower and more expensive.
+
+NVIDIA itself describes the invention of the GPU as helping ignite the modern AI era.
+
+So Huang's contribution wasn't primarily an AI algorithm.
+
+It was arguably even more fundamental:
+
+He helped build the computational engine on which modern AI runs.
+
+20. Sam Altman — AI Goes Mainstream
+
+Born 22 April 1985
+
+📍 Born: Chicago, Illinois
+📍 Living
+
+Altman is different from most people on this list.
+
+He wasn't primarily an AI scientist.
+
+His importance comes from commercialization and mass adoption.
+
+As OpenAI's CEO, he helped turn technologies such as GPT into products used by hundreds of millions of people.
+
+The key historical event:
+
+November 30, 2022 — ChatGPT
+
+That transformed AI from something mostly discussed in laboratories and technology companies into something ordinary people could use directly.
+
+His birth information is well documented as Chicago, April 22, 1985.
+
+Altman's contribution:
+He helped turn AI from a research technology into a mass-market phenomenon.
