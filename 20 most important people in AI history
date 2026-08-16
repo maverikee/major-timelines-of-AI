@@ -1,0 +1,25 @@
+The 20 Most Important People in AI History
+#	Person	Born	Birthplace	Died	Deathplace	Greatest contribution to AI
+1	Alan Turing 🇬🇧	23 Jun 1912	London, England	7 Jun 1954	Wilmslow, Cheshire, England	Theoretical foundations of computing; Turing Test; foundational ideas for AI
+2	John McCarthy 🇺🇸	4 Sep 1927	Boston, Massachusetts	24 Oct 2011	Stanford, California	Coined “Artificial Intelligence”; founded AI as a field; invented Lisp
+3	Marvin Minsky 🇺🇸	9 Aug 1927	New York City	24 Jan 2016	Boston, Massachusetts	Pioneer of symbolic AI; co-founded MIT AI Laboratory; theories of mind
+4	Geoffrey Hinton 🇬🇧🇨🇦	6 Dec 1947	Wimbledon, London	—	—	Deep learning, backpropagation, neural networks
+5	Yann LeCun 🇫🇷🇺🇸	8 Jul 1960	Soisy-sous-Montmorency, France	—	—	Convolutional neural networks (CNNs); computer vision
+6	Yoshua Bengio 🇨🇦	5 Mar 1964	Paris, France	—	—	Deep learning; representation learning
+7	Andrew Ng 🇺🇸	18 Apr 1976	London, England	—	—	Large-scale machine learning; AI education; practical ML
+8	Fei-Fei Li 🇺🇸🇨🇳	1976	Beijing, China	—	—	ImageNet; helped trigger the 2012 deep-learning revolution
+9	Demis Hassabis 🇬🇧	27 Jul 1976	London, England	—	—	DeepMind; AlphaGo; AlphaFold; scientific AI
+10	Ilya Sutskever 🇨🇦🇮🇱	1985/86	Nizhny Novgorod, Russia*	—	—	Deep learning; AlexNet; GPT/LLM development
+11	Alex Krizhevsky 🇨🇦	—	Canada*	—	—	Co-created AlexNet, the landmark 2012 deep-learning system
+12	Vladimir Vapnik 🇷🇺🇺🇸	6 Dec 1936	Tashkent, Uzbek SSR	—	—	Statistical learning theory; SVM; VC theory
+13	Judea Pearl 🇮🇱🇺🇸	4 Sep 1936	Tel Aviv, Mandatory Palestine	—	—	Bayesian networks; causal inference
+14	Richard Sutton 🇨🇦🇺🇸	1957/58	Toledo, Ohio	—	—	Reinforcement learning; temporal-difference learning
+15	David Silver 🇬🇧	1976	England*	—	—	AlphaGo, AlphaZero; deep reinforcement learning
+16	Ashish Vaswani 🇺🇸	—	Not reliably established publicly	—	—	Lead author of “Attention Is All You Need”; Transformer architecture
+17	Jeff Dean 🇺🇸	23 Jul 1968	Hawaii, USA	—	—	Google-scale computing; MapReduce, TensorFlow, AI infrastructure
+18	Ian Goodfellow 🇺🇸	1985	Rochester, New York*	—	—	Invented GANs (Generative Adversarial Networks)
+19	Jensen Huang 🇹🇼🇺🇸	17 Feb 1963	Taipei, Taiwan†	—	—	Founded NVIDIA; GPU computing infrastructure for modern AI
+20	Sam Altman 🇺🇸	22 Apr 1985	Chicago, Illinois	—	—	OpenAI; helped bring generative AI to the mass market
+
+* Exact biographical details for some living researchers are inconsistently reported publicly, so I would not treat those entries as definitive.
+† Jensen Huang's birthplace is sometimes reported as Taipei and sometimes Tainan because of differing biographical accounts; his official/industry biographies emphasize his Taiwanese childhood in Tainan.
