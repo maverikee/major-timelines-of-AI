@@ -1,0 +1,94 @@
+The 20 People as an AI "Family Tree"
+
+The really fascinating part is how these people connect:
+
+                     ALAN TURING
+                         │
+                         ▼
+                 JOHN McCARTHY
+                         │
+                         ▼
+                  MARVIN MINSKY
+                         │
+             ┌───────────┴───────────┐
+             ▼                       ▼
+        VAPNIK / PEARL          NEURAL NETWORKS
+             │                       │
+             │              ┌────────┴────────┐
+             │              ▼                 ▼
+             │          HINTON            LE CUN
+             │              │                 │
+             │              └──────┬──────────┘
+             │                     ▼
+             │                  BENGIO
+             │                     │
+             │                     ▼
+             │              DEEP LEARNING
+             │                     │
+             │          ┌──────────┴──────────┐
+             │          ▼                     ▼
+             │     FEI-FEI LI            ALEXNET
+             │                                │
+             │                                ▼
+             │                         SUTSKEVER
+             │                                │
+             │                                ▼
+             │                              GPT
+             │                                │
+             │                         ┌──────┴──────┐
+             │                         ▼             ▼
+             │                   TRANSFORMER      GAN
+             │                    VASWANI      GOODFELLOW
+             │                         │
+             │                         ▼
+             │                    CHATGPT
+             │                         │
+             │                         ▼
+             │                     ALTMAN
+             │
+             └──────────────┐
+                            ▼
+                     REINFORCEMENT
+                        LEARNING
+                            │
+                    ┌───────┴────────┐
+                    ▼                ▼
+                 SUTTON           SILVER
+                                      │
+                                      ▼
+                                   HASSABIS
+                                      │
+                              ┌───────┴───────┐
+                              ▼               ▼
+                           ALPHAGO        ALPHAFOLD
+The deepest lesson
+
+These 20 people represent different layers of the AI revolution:
+
+Layer	Key people
+🧮 Mathematical foundations	Turing, Vapnik, Pearl
+🧠 Birth of AI	McCarthy, Minsky
+🔄 Neural networks	Hinton, LeCun, Bengio
+📊 Data	Fei-Fei Li
+🎮 Reinforcement learning	Sutton, Silver
+🧬 Scientific AI	Hassabis
+🤖 Generative AI	Goodfellow, Sutskever
+⚡ Transformer	Vaswani
+💻 Computing infrastructure	Jeff Dean, Jensen Huang
+🌎 Mass adoption	Sam Altman
+And there is a beautiful progression:
+
+Turing asked the question.
+McCarthy named the field.
+Minsky built its early intellectual framework.
+Vapnik and Pearl gave it mathematical reasoning.
+Hinton, LeCun and Bengio revived neural networks.
+Fei-Fei Li supplied the data.
+Huang supplied the computational horsepower.
+Sutton and Silver taught machines to act.
+Vaswani supplied the Transformer.
+Sutskever and others scaled it into LLMs.
+Hassabis pushed AI into science.
+Altman helped put it into everyone's hands.
+
+That is, in a nutshell, the human story behind modern AI.
