@@ -1,0 +1,309 @@
+The history of AI is best understood as a series of major paradigm shifts, rather than one continuous invention. Here is a useful timeline from the intellectual origins to today's generative and agentic AI.
+
+Major Timeline of AI: Origins → 2026
+Period	Milestone	Why it mattered
+1943	McCulloch & Pitts artificial neuron	First mathematical model of a neuron; foundation of neural networks
+1950	Alan Turing — Computing Machinery and Intelligence	Proposed the famous Turing Test and asked whether machines can think
+1956 ⭐	Dartmouth Conference	The term "Artificial Intelligence" was formally introduced; commonly regarded as the birth of AI as a field
+1957–59	Perceptron; early machine learning	Frank Rosenblatt developed the perceptron, an early trainable neural network
+1960s	Symbolic AI / expert reasoning	AI focused on logic, rules, search, and symbolic representation
+1966	ELIZA	One of the first famous natural-language conversational programs
+1970s	First AI winter begins	High expectations collided with limited computing power and difficult problems
+1980s	Expert systems boom	Rule-based systems became commercially important
+1986 ⭐	Backpropagation popularized	Rumelhart, Hinton & Williams helped establish the training method that became fundamental to modern neural networks
+1987–93	Second AI winter	Expert-system limitations and funding decline
+1997 ⭐	IBM Deep Blue defeats Garry Kasparov	Landmark demonstration that computers could outperform humans in a complex intellectual game
+2006	Deep learning revival	Hinton and others helped revive neural-network research under the "deep learning" paradigm
+2007–12	Big Data + GPUs	Massive datasets and GPU computing made large neural networks practical
+2011	IBM Watson wins Jeopardy!	Demonstrated large-scale natural-language question answering
+2012 ⭐	AlexNet wins ImageNet	One of the biggest turning points: deep neural networks dramatically improved image recognition
+2014	GANs introduced	Generative Adversarial Networks opened a new era of machine-generated images and other content
+2016 ⭐	AlphaGo defeats Lee Sedol	Deep learning + reinforcement learning achieved a breakthrough in a problem previously considered extremely difficult for AI
+2017 ⭐	Transformer architecture	"Attention Is All You Need" introduced the Transformer, the technological foundation of modern LLMs
+2018	BERT	Transformers became extremely powerful for language understanding
+2020	GPT-3	Large language models demonstrated striking general-purpose language abilities
+2020	AlphaFold 2	AI achieved a major breakthrough in predicting protein structures
+2022 ⭐	ChatGPT launched	Generative AI became accessible to hundreds of millions of ordinary users
+2022–23	Diffusion models explode	AI-generated images became extraordinarily capable
+2023	GPT-4	Major leap in reasoning, multimodality, coding, and general-purpose AI
+2023–24	Multimodal AI	Models increasingly handle text + image + audio + video
+2024	AI agents emerge	AI increasingly moves from "answering questions" toward using tools and completing tasks
+2024–25	Reasoning models	Models increasingly use extended inference/reasoning to solve difficult mathematical, scientific, and coding problems
+2025–26	Agentic + multimodal AI	AI increasingly combines reasoning, tools, memory, coding, vision, voice, and autonomous workflows
+2026	Current frontier	Competition shifts toward reasoning + agents + multimodality + robotics + scientific AI
+The 7 Great Eras of AI
+
+If you want to remember the whole history, I would compress it into seven eras:
+
+1. 1943–1956 — The Intellectual Birth
+
+The key question was:
+
+Can intelligence be represented mathematically and implemented by a machine?
+
+Three foundational ideas appeared:
+
+1943 — artificial neurons
+McCulloch and Pitts modeled neurons mathematically.
+
+1950 — Turing
+Alan Turing asked whether machines could exhibit intelligent behavior.
+
+1956 — Dartmouth
+John McCarthy, Marvin Minsky, Claude Shannon and others established AI as a research field.
+
+1956 is therefore the most commonly cited "birth year" of AI.
+
+2. 1956–1980 — Symbolic AI
+
+Early AI was primarily rule-based.
+
+The basic idea was:
+
+Intelligence = symbols + rules + logical reasoning.
+
+Machines were taught things like:
+
+IF condition A
+AND condition B
+THEN conclusion C
+
+This produced systems capable of solving puzzles, proving theorems and performing limited reasoning.
+
+But there was a fundamental problem:
+
+The real world is vastly more complicated than a collection of hand-written rules.
+
+This contributed to the first AI winter.
+
+3. 1980–2006 — Expert Systems → Machine Learning
+
+AI temporarily shifted toward expert systems.
+
+Instead of trying to create a universal intelligent machine, researchers encoded the knowledge of human experts.
+
+Examples included medical diagnosis and industrial troubleshooting.
+
+But another problem emerged:
+
+Humans are terrible at explicitly describing all the knowledge they unconsciously use.
+
+This encouraged a major conceptual shift:
+
+Instead of programming intelligence → let machines learn intelligence from data.
+
+That is the beginning of modern machine learning.
+
+4. 2006–2016 — Deep Learning Revolution
+
+This is arguably the most important technological transition before today's generative AI.
+
+Three things came together:
+
+Big data + GPUs + neural networks
+
+Then came the landmarks:
+
+2012 — AlexNet
+
+Deep learning crushed traditional computer-vision approaches on ImageNet.
+
+That demonstrated something profound:
+
+Give sufficiently large neural networks enough data and computation, and they can learn representations humans previously had to engineer manually.
+
+Then:
+
+2016 — AlphaGo
+
+Deep learning + reinforcement learning defeated one of the world's strongest Go players.
+
+AI had crossed another psychological barrier.
+
+5. 2017–2021 — The Transformer Revolution
+
+This is the most important technical turning point for today's AI.
+
+2017 — Transformer
+
+Google researchers published:
+
+"Attention Is All You Need."
+
+The Transformer architecture introduced a much more scalable way to process relationships between words/tokens.
+
+This eventually produced:
+
+BERT → GPT → large language models → ChatGPT
+
+The crucial idea became:
+
+Scale the model + scale the data + scale the computation → increasingly general capabilities.
+
+This changed AI from specialized systems into something much closer to a general-purpose computing interface.
+
+6. 2022–2024 — Generative AI Revolution
+November 30, 2022
+
+ChatGPT was released.
+
+This was arguably AI's equivalent of the iPhone moment.
+
+AI went from something primarily used by researchers and companies to something ordinary people could talk to directly.
+
+At the same time:
+
+GPT-4
+Claude
+Gemini
+Stable Diffusion
+Midjourney
+DALL-E
+GitHub Copilot
+
+rapidly transformed:
+
+language → images → programming → audio → video
+
+AI was no longer merely recognizing information.
+
+It could generate information.
+
+7. 2024–2026 — Reasoning + Agents + Multimodal AI
+
+This is the era we are entering now.
+
+The important transition is:
+
+Old AI
+
+You ask → AI answers.
+
+New AI
+
+You give AI a goal → AI reasons → plans → uses tools → performs actions → checks results → continues.
+
+That is the emergence of AI agents.
+
+At the same time, AI is becoming increasingly:
+
+Multimodal
+
+Text
+ ↓
+Images
+ ↓
+Audio
+ ↓
+Video
+ ↓
+Code
+ ↓
+Real-world sensors
+
+And increasingly capable of:
+
+Reasoning
+
+Question
+   ↓
+Decompose problem
+   ↓
+Reason
+   ↓
+Use tools
+   ↓
+Check answer
+   ↓
+Revise
+   ↓
+Final result
+The Most Important "Inflection Points"
+
+If I had to reduce 83 years of AI history to just 10 dates, I would choose:
+
+1943
+
+Artificial neuron
+
+↓
+
+1950
+
+Turing's machine-intelligence question
+
+↓
+
+1956
+
+⭐ Birth of AI as a formal field
+
+↓
+
+1986
+
+Backpropagation becomes practical and influential
+
+↓
+
+1997
+
+Deep Blue defeats Kasparov
+
+↓
+
+2012
+
+⭐ Deep learning revolution
+
+↓
+
+2016
+
+⭐ AlphaGo defeats Lee Sedol
+
+↓
+
+2017
+
+⭐ Transformer invented
+
+↓
+
+2022
+
+⭐ ChatGPT / mass-market generative AI
+
+↓
+
+2024–2026
+
+⭐ Reasoning + multimodal + agentic AI
+
+The really interesting part
+
+There is a deeper pattern underneath this history:
+
+AI has repeatedly changed what we mean by "intelligence."
+
+First:
+
+Intelligence = rules
+
+Then:
+
+Intelligence = learning
+
+Then:
+
+Intelligence = representation + prediction
+
+Then:
+
+Intelligence = generation
+
+And increasingly:
+
+Intelligence = reasoning + planning + acting
+
+That last transition may be the biggest one yet.
